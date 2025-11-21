@@ -5,12 +5,6 @@
 - [Motivation & Problem Statement](#motivation--problem-statement)
 - [Data & Features](#data--features)
 - [Approach / Methodology](#approach--methodology)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Results & Insights](#results--insights)
-- [Next Steps](#next-steps)
-- [Contributing](#contributing)
 
 ---
 
@@ -61,4 +55,3 @@ This project aims to identify clear segments and build machine learning models t
 5. **Deployment Artifacts**  
    Export trained models using Joblib for easy reuse.
 
-## Project Structure
